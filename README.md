@@ -25,7 +25,7 @@ El nombre del producto no identifica el diseño de forma confiable (mismo diseñ
 El talle se extrae del nombre del producto (no viene en un campo propio), lo cual generó un hallazgo de calidad de datos.
 
 Insights clave:
-1. Remera y Baby Tee concentran el 67% de los ingresos. De $4.774.368 en ventas confirmadas, Remera ($1.988.580) y Baby Tee ($1.377.400) representan la mayoría. El diseño "Jeff" es el más fuerte del catálogo, vendido en ambos formatos, tanto Baby Tee como remera. Recomendación: priorizar stock y variantes nuevas en estas dos categorías antes de diversificar el catálogo.
+1. Remera y Baby Tee concentran el 67% de los ingresos. De $4.774.368 en ventas confirmadas, Remera ($1.885.991) y Baby Tee (1.316.230) representan la mayoría. El diseño "Jeff" es el más fuerte del catálogo, vendido en ambos formatos, tanto Baby Tee como remera. Recomendación: priorizar stock y variantes nuevas en estas dos categorías antes de diversificar el catálogo.
 3. Los pedidos de afuera de Buenos Aires compran en promedio el doble de unidades por pedido, probablemente para amortizar el costo y tiempo de envío. La concentración geográfica en sí parece responder más a alcance de marca que a costo o poder adquisitivo. Recomendación: cruzar este dato con analítica de redes sociales (de dónde vienen los seguidores).
 4. Calidad de datos: el talle se cargó de forma pareja en Remera, pero no en Baby Tee. Remera tiene talle identificable en el 99% de sus ventas, Baby Tee, solo en el 38%. Esto no es una limitación técnica sino una inconsistencia puntual al cargar productos Baby Tee. Recomendación: cargar el talle de Baby Tee con el mismo criterio que ya se usa en Remera, para poder gestionar stock por talle con confianza.
 
